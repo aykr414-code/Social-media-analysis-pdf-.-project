@@ -1,1 +1,34 @@
-readme file
+Social Media Impact on Mental Health & Academic Performance
+Data Analysis and Visualization using IBM Cognos Analytics.
+
+ 📌 Project Overview
+This project analyzes the correlation between social media usage, psychological well-being, and academic outcomes. Using IBM Cognos Analytics, raw behavioral data was processed into interactive dashboards to identify how digital habits influence daily life.
+
+🎯 Objectives
+* Data Modeling:Structuring raw datasets for efficient BI reporting.
+* Interactive Visuals: Designing dashboards to track behavioral patterns.
+* Correlation Analysis:Linking screen time to stress and academic grades.
+* Actionable Insights: Using filters and calculations to derive meaningful conclusions.
+
+ Dataset Details
+The analysis covers the following data categories:
+* Demographics: Age and Gender.
+* Usage: Daily minutes and preferred platforms (Instagram, TikTok, etc.).
+* Lifestyle:Sleep duration and screen time before bed.
+* Performance:Academic scores and GPA.
+* Mental Health:Stress, Anxiety, Addiction, and Depression levels.
+
+
+
+ 📈 Key Insights
+*Critical Threshold: Daily usage exceeding 300+ minutes correlates with significantly higher stress levels.
+* Sleep Impact: High screen usage before sleep is a primary indicator of declining academic performance.
+* Platform Fatigue: Multi-platform us addiction scores compared to single-platform users.
+
+ Tech Stack
+* Platform: IBM Cognos Analytics
+* Core Skills: Data Modeling, BI Reporting, and Data Visualization.
+
+
+Conclusion
+The analysis confirms a strong correlation between excessive social media consumption and negative impacts on mental health and academics. This project demonstrates how BI tools like IBM Cognos can transform behavioral data into insights for better digital-life balance.
